@@ -7,7 +7,7 @@ A client of door2door would like a custom landing page built for them to enhance
 
 ### What we expect you to build
 
-Our designers have already prepared the designs for the landing page (desktop + mobile), which can be found [here](zpl.io/aw0DXE1). If you don't have access to the project yet, contact us and we will fix this right away!
+Our designers have already prepared the designs for the landing page (desktop + mobile), which can be found [here](http://zpl.io/aw0DXE1). If you don't have access to the project yet, contact us and we will fix this right away!
 
 If you've never used Zeplin before, you can watch [this introductory video](https://www.youtube.com/watch?v=tHmzAytSgpI).
 
